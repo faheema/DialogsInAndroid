@@ -1,7 +1,7 @@
 # DialogsInAndroid
-
+##Visit:[http://www.fahmapps.com/][2]
 ![Dialogs Demo ][1]
-Visit: ![http://www.fahmapps.com/][2]
+
 
 
 
